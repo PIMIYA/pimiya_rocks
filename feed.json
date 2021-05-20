@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PIMIYA",
+    "description": "",
+    "home_page_url": "https://pimiya.rocks",
+    "feed_url": "https://pimiya.rocks/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "PIMIYA"
+    },
+    "items": [
+    ]
+}
