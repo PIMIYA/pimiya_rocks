@@ -8,7 +8,7 @@ $(document).ready(function () {
   let diff = deadline / 1000 - timeNow.getTime() / 1000;
   // Countdown timer
   clock = $("#countTim").FlipClock(diff, {
-    clockFace: "Counter",
+    //clockFace: "Counter",
     countdown: true,
     callbacks: {
       stop: function () {
