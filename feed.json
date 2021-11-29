@@ -15,14 +15,14 @@
             "url": "https://pimiya.rocks/guan-yu-about/",
             "title": "關於 About",
             "summary": " 注設工作室為藝術家鄭先喻、吳宜曄成立，工作室專注於軟體與硬體開發以及其他較為實驗性的計畫，其計畫涵蓋OpenSource開源軟體、藝術、設計與科學相關的元素。其成員由軟體工程師與藝術家組成。 ",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://pimiya.rocks/media/posts/1/logo_pimiya.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-xs.png 300w ,https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-sm.png 480w ,https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-md.png 768w\"  alt=\"\" width=\"5333\" height=\"3841\"></figure>\n<p>注設工作室為藝術家鄭先喻、吳宜曄成立，工作室專注於軟體與硬體開發以及其他較為實驗性的計畫，其計畫涵蓋OpenSource開源軟體、藝術、設計與科學相關的元素。其成員由軟體工程師與藝術家組成。</p>\n<p> </p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://pimiya.rocks/media/posts/1/logo_pimiya.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-xs.png 300w ,https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-sm.png 480w ,https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-md.png 768w\"  alt=\"\" width=\"888\" height=\"640\"></figure>\n<p>注設工作室為藝術家鄭先喻、吳宜曄成立，工作室專注於軟體與硬體開發以及其他較為實驗性的計畫，其計畫涵蓋OpenSource開源軟體、藝術、設計與科學相關的元素。其成員由軟體工程師與藝術家組成。</p>\n<p> </p>",
             "author": {
                 "name": "PIMIYA"
             },
             "tags": [
             ],
             "date_published": "2021-11-29T19:11:26+08:00",
-            "date_modified": "2021-11-29T19:21:30+08:00"
+            "date_modified": "2021-11-29T19:29:58+08:00"
         }
     ]
 }
