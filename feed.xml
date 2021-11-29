@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>PIMIYA 注設工作室</title>
+    <link href="https://pimiya.rocks/feed.xml" rel="self" />
+    <link href="https://pimiya.rocks" />
+    <updated>2021-11-29T19:21:30+08:00</updated>
+    <author>
+        <name>PIMIYA</name>
+    </author>
+    <id>https://pimiya.rocks</id>
+
+    <entry>
+        <title>關於 About</title>
+        <author>
+            <name>PIMIYA</name>
+        </author>
+        <link href="https://pimiya.rocks/guan-yu-about/"/>
+        <id>https://pimiya.rocks/guan-yu-about/</id>
+
+        <updated>2021-11-29T19:21:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                     注設工作室為藝術家鄭先喻、吳宜曄成立，工作室專注於軟體與硬體開發以及其他較為實驗性的計畫，其計畫涵蓋OpenSource開源軟體、藝術、設計與科學相關的元素。其成員由軟體工程師與藝術家組成。 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://pimiya.rocks/media/posts/1/logo_pimiya.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-xs.png 300w ,https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-sm.png 480w ,https://pimiya.rocks/media/posts/1/responsive/logo_pimiya-md.png 768w"  alt="" width="5333" height="3841"></figure>
+<p>注設工作室為藝術家鄭先喻、吳宜曄成立，工作室專注於軟體與硬體開發以及其他較為實驗性的計畫，其計畫涵蓋OpenSource開源軟體、藝術、設計與科學相關的元素。其成員由軟體工程師與藝術家組成。</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
